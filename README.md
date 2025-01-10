@@ -29,6 +29,7 @@
 - Git
 - PyCharm
 - Nginx
+- AWS EC2
 
 ## 🚀 설치 및 실행 방법
 ```bash
