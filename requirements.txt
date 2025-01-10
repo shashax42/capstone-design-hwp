@@ -1,0 +1,6 @@
+opencv-python
+dlib
+torch
+numpy
+django==4.2.5
+mysqlclient
