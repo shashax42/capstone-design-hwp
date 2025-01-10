@@ -33,13 +33,13 @@
 ## 🚀 설치 및 실행 방법
 ```bash
 # 레포지토리 클론
-git clone https://gitlab.com/celina1149/Capstone Design.git 
+git clone https://gitlab.com/youn1149/capstone-design-hwp.git 
 
 # 프로젝트 디렉토리로 이동
 cd 프로젝트명
 
 # 필요 패키지 설치
-pip install -r requirements.txt
+pip install -r (requirements)
 
 # 프로젝트 실행
 python main.py
