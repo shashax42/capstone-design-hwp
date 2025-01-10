@@ -39,7 +39,7 @@ git clone https://gitlab.com/youn1149/capstone-design-hwp.git
 cd 프로젝트명
 
 # 필요 패키지 설치
-pip install -r (requirements)
+pip install -r requirements.txt
 
 # 프로젝트 실행
 python main.py
